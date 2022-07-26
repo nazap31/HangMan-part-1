@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\bin\Debug\net6.0\juego-ahorcado.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\bin\Debug\net6.0\juego-ahorcado.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\bin\Debug\net6.0\juego-ahorcado.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\bin\Debug\net6.0\juego-ahorcado.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\bin\Debug\net6.0\juego-ahorcado.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\juego-ahorcado.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\juego-ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\juego-ahorcado.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\juego-ahorcado.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\juego-ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\juego-ahorcado.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\refint\juego-ahorcado.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\juego-ahorcado.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\juego-ahorcado.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Proyecto 01 juego ahorcado\juego-ahorcado\obj\Debug\net6.0\ref\juego-ahorcado.dll
